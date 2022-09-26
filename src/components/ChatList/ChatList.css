@@ -1,0 +1,22 @@
+.chatlist__top{
+    /* background-color: blue; */
+    margin-top: 15px;
+   
+    padding-bottom: 15px;
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ItemUser__bao:hover{
+    padding-right: 10px;
+    background-color: #D3D3D3;
+    cursor: pointer;
+}
+.chatlist__bao{
+    padding-right: 0px;
+}

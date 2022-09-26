@@ -1,0 +1,24 @@
+.name-chat__bao:hover .btn-edit-name-chat{
+    display: block;
+}
+.btn-edit-name-chat{
+    display: none;
+    position: absolute;
+    
+    
+}
+.name-chat__bao:hover{
+    cursor: pointer;
+}
+.btn-tran{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+}
+.btn-tran:hover{
+    background-color: #DCDCDC;
+}
+/* .chat-window-top__bao{
+    border: 1px solid black;
+    padding-bottom: 5px;
+} */
